@@ -11,7 +11,7 @@ class solution(object):
 
 
             
-            return list(stor.values())
+        return list(stor.values())
 
 so = solution()
 print(so.groupAnabram(["eat", "tea", "tan", "ate", "nat", "bat"]))
